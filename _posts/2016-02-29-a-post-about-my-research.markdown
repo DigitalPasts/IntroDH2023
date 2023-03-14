@@ -1,25 +1,34 @@
 ---
 layout: post
-title:  "A Post about My Research"
+title:  "שיעור ראשון"
 date:   2016-11-12 10:35:57 -0500
 categories: 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+::: {dir="rtl"}
+# מטרות הקורס
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+לימוד העקרונות וההיסטוריה המחקרית של מדעי הרוח הדיגיטליים והבנה ותרגול של מתודות וכלים בחקר חישובי של מדעי הרוח והחברה. כמו כן, התלמידים ייחשפו לפרויקטים דיגיטליים שונים העושים שימוש בנתוני עתק (Big Data), ויילמדו כיצד לנהל פרויקטים כאלה באופן עצמאי, החל ממחשוב/ספרות המידע, ניהול מאגרי ידע וציטוטים, עיבוד מידע תמונתי וגיאוגרפי, ופרסומם במרשתת.
 
-Jekyll also offers powerful support for code snippets:
+# תוכן הקורס
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+מאז שהאב רוברטו בוסה החליט להשתמש בכוח המחשב שזה עתה נוצר לייצר [אינדקס](http://www.corpusthomisticum.org/it/index.age "INDEX THOMISTICUS") של כתבי תומאס אקווינס בשנות ה-40 של המאה הקודמת, התפתח רבות תחום המחקר שמכונה כיום מדעי הרוח הדיגיטליים. הקורס בנוי כפרו״ס המחולק לארבעה חלקים. החלק הראשון מניח את הבסיס להפיכתו של מחקר במדעי הרוח לחישובי על ידי בחינה ודיון של פרויקטים קיימים ושאלות המחקר שלהם. שלושת החלקים האחרים עוקבים אחר השלבים העיקריים במחזור החיים של ממצאים כתובים, חומריים ואומנותיים במרחב החישובי: הפיכה לדאטא (סִפרות בעברית), עיבוד נתונים והצגתם. בכל אחת מהיחידות נחקור את המושגים והתאוריה אשר עומדים בבסיסם, ונתרגל אותם באופן מעשי בכלים הזמינים לכל, וחלקם אף אינו מצריך התקנה מקומית על המחשב. בסיום הקורס יציגו התלמידים את פרויקט המחקר שלהם ויגישו עבודה מסכמת.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+| תאריך | יחידה | נושא השיעור | משימות |
+|:-----:|:-----:|:-----------:|:------:|
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
+|       |       |             |        |
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+: **תכנית הוראה מפורטת לכל השיעורים**
+:::
+
