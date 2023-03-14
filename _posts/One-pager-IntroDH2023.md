@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "שיעור ראשון"
+date:   2023-03-15
+categories: 
+---
 ::: {dir="rtl"}
 # מטרות הקורס
 
