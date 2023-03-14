@@ -1,0 +1,20 @@
+# Site settings
+title: מבוא לשיטות מחקר ויישומים חישוביים במדעי הרוח
+email: shygordin@gmail.com
+description: > 
+  Introduction to Digital Research Methods and Applications in the Humanities 2023.
+baseurl: "/IntroDH2023" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ShGordin
+github_username:  DigitalPasts
+
+lang: he
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
